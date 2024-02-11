@@ -1,0 +1,14 @@
+C:\Users\danie\Repo\ParsingGame\bin\Debug\net8.0\ParsingGame.exe
+C:\Users\danie\Repo\ParsingGame\bin\Debug\net8.0\ParsingGame.deps.json
+C:\Users\danie\Repo\ParsingGame\bin\Debug\net8.0\ParsingGame.runtimeconfig.json
+C:\Users\danie\Repo\ParsingGame\bin\Debug\net8.0\ParsingGame.dll
+C:\Users\danie\Repo\ParsingGame\bin\Debug\net8.0\ParsingGame.pdb
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.AssemblyInfoInputs.cache
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.AssemblyInfo.cs
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.csproj.CoreCompileInputs.cache
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.dll
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\refint\ParsingGame.dll
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.pdb
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.genruntimeconfig.cache
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ref\ParsingGame.dll
