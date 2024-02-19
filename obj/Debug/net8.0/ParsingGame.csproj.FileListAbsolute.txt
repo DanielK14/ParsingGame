@@ -12,3 +12,4 @@ C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\refint\ParsingGame.dll
 C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.pdb
 C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.genruntimeconfig.cache
 C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ref\ParsingGame.dll
+C:\Users\danie\Repo\ParsingGame\obj\Debug\net8.0\ParsingGame.sourcelink.json

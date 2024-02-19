@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParsingGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2cdcda2d3f0bcb12162beb1260e3397078aea6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParsingGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParsingGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
